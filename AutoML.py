@@ -1089,7 +1089,7 @@ st.markdown(
     """
     <hr>
     <div style="text-align: center; font-size: 14px; color: gray;">
-        Made with ❤️ by <a href="https://github.com/vamshi-M96" target="_blank">Vamshi</a> using Streamlit
+        Made with ❤️ by <a href="https://github.com/suradayakarreddy" target="_blank">DAYAN REDDY</a> using Streamlit
     </div>
     """,
     unsafe_allow_html=True
