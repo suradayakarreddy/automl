@@ -7,3 +7,6 @@ xgboost
 lightgbm
 matplotlib
 seaborn
+plotly
+sweetviz
+ppscore
